@@ -5,7 +5,7 @@
 
 Sanchez é uma Inteligencia Artificial construída para automatizar algumas pesqusas diarias tudo com base do You Tube e Wikipedia.
 
-A aplicação consiste em uma pesquisa e execução de tarefas automaticamente, onde a resposta é mostrada no terminal e citada para o usuario atravez de uma voz artificial (pyttsx3), que também apresenta a músicas no YouTube quando solicitadas.
+A aplicação consiste em uma pesquisa e execução de tarefas automaticamente, onde a resposta é mostrada no terminal e citada para o usuario atravez de uma voz artificial (pyttsx3), que também apresenta músicas no YouTube quando solicitadas.
 
 #
 
